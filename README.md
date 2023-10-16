@@ -9,7 +9,6 @@
 #### 👨: About Me
 - Enthusiast programmer that in love with software developement.
 - I'm driven by a genuine passion for solving complex problems through coding.
-- Currently exploring **Python, Anaconda, and Alteryx**
 - 🌱 I’m currently learning **Phyton , Alteryx , Git**
 
 
